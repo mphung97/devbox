@@ -21,7 +21,10 @@
     "zoxide@latest",
     "direnv@latest",
     "starship@latest",
-    "stow@latest"
+    "stow@latest",
+    "yazi@latest",
+    "jless@latest",
+    "lazygit@latest"
   ],
   "env": {
     "DEVBOX_GLOBAL_PREFIX": "$HOME/.local/share/devbox/global/default/.devbox/nix/profile/default",
